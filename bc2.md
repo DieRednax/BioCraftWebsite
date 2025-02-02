@@ -7,11 +7,12 @@ BioCraft 2 started in December 2024 in the Gardens awake winter drop. We started
 - creator: DeRednax
 
 ### Mods/Packs
-#### Mods
+#### **Mods**
 - Geyser + Floodgate
 - ViaFabricPlus
 - Lithium  
-#### Data packs
+
+#### **Data packs**
 - armor statues       
 - kill empty boats         
 - silence mobs
@@ -40,8 +41,9 @@ BioCraft 2 started in December 2024 in the Gardens awake winter drop. We started
 - blackstone cobblestone
 - craftable name tags
 - craftable gravel
-- craftable coral blocks 3x3
-#### Resource packs
+- craftable coral blocks 3x3  
+
+#### **Resource packs**
 - [BC2 Custom hats](https://github.com/DieRednax/BioCraft2-CustomHats-ResourcePack)
 
 
